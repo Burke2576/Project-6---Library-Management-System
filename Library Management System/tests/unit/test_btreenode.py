@@ -2,7 +2,7 @@ import sys
 import os
 
 # 获取项目根目录（"Library Management System/" 的路径）
-# Retrieve the root directory of the project (path to 'Library Management System/')
+# # Retrieve the root directory of the project (path to 'Library Management System/')
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # 将 src/ 目录加入 Python 路径
 # Add src/directory to Python path
@@ -23,7 +23,7 @@ from src.models.btreenode import BTreeNode
 
 class TestBTreeNode(unittest.TestCase):
     def test_node_creation(self):
-        """测试B树节点初始化/ Test B-tree node initialization"""
+        """Test B-tree node initialization"""
         node = BTreeNode(t=3, leaf=True)
         self.assertEqual(node.t, 3)
         self.assertEqual(len(node.books), 0)

@@ -1,49 +1,35 @@
 class BTreeNode:
-    def __init__(self, t, *args, **kwargs):
-        """
-        B树节点类 / B-tree Node Class
-        Args参数:
-            t: 最小度数 / Minimum degree
-            *args, **kwargs: 用于兼容接收leaf参数但不使用 / For backward compatibility (ignored)
-        """
-        self.t = t          # 最小度数 / Minimum degree
-        self.books = []     # 存储书籍对象列表 / List of Book objects
-        self.children = []  # 子节点列表 / List of child nodes
-
-    def is_leaf(self):
-        """
-        判断是否为叶子节点 / Check if the node is a leaf
-        Returns返回:
-            bool: True如果是叶子节点 / if leaf node
-        """
-        return len(self.children) == 0
+    def __init__(self, t, leaf=False):
+        self.t = t          # Minimum degree
+        self.books = []     # List of Book objects
+        self.children = []  # List of child nodes
+        self.leaf = leaf    # Is this a leaf node?
 
     def __str__(self):
-        """
-        节点字符串表示 / Node string representation
-        Returns返回:
-            str: 格式化后的节点信息 / Formatted node info
-        """
+        """用于打印节点时的友好显示 Friendly display for printing nodes"""
         book_ids = [str(book.book_ID) for book in self.books]
-        return f"Node(keys={book_ids}, leaf={self.is_leaf()})"
+        return f"Node(books={book_ids}, leaf={self.leaf})"
 
     def visualize(self, level=0, output=None):
         """
-        生成B树结构的层级可视化文本 / Generate hierarchical visualization
-        Args参数:
-            level: 当前节点层级（用于缩进） / Current level (for indentation)
-            output: 存储输出的列表（递归使用）/ Output list (recursive use)
-        Returns返回:
-            list: 格式化后的树结构字符串列表 / Formatted tree structure strings
+        生成B树结构的层级可视化文本 Generate hierarchical visualization text with B-tree structure
+        :param level: 当前节点层级（用于缩进）
+        :param output: 存储输出的列表（递归使用）
+        :return: 格式化后的树结构字符串列表
         """
         if output is None:
             output = []
         
-        prefix = "  " * level
+        # 当前节点的书籍ID列表
+        # List of book IDs for the current node
+        prefix = "    " * level
         book_ids = [str(book.book_ID) for book in self.books]
-        output.append(f"{prefix}[{'|'.join(book_ids)}]")
+        node_str = f"{prefix}[{'|'.join(book_ids)}]"
+        output.append(node_str)
         
-        if not self.is_leaf():
+        # 递归处理子节点
+        # Recursive processing of child nodes
+        if not self.leaf:
             for child in self.children:
                 child.visualize(level + 1, output)
         

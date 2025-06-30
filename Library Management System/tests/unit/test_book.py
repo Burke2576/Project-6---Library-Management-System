@@ -24,7 +24,7 @@ from models.btreenode import BTreeNode
 
 class TestBook(unittest.TestCase):
     def test_book_creation(self):
-        """测试所有属性的基本书籍创建/ Test basic book creation with all attributes"""
+        """测试所有属性的基本书籍创建 Test basic book creation with all attributes"""
         book = Book(1, "Test Book", "Author", Genre.FICTION, 2020)
         self.assertEqual(book.book_ID, 1)
         self.assertEqual(book.title, "Test Book")
@@ -34,7 +34,7 @@ class TestBook(unittest.TestCase):
         self.assertTrue(book.available)
         
     def test_book_equality(self):
-        """测试书籍的平等性仅基于标题/ Test that book equality is based on title only"""
+        """测试书籍的平等性仅基于标题 Test that book equality is based on title only"""
         book1 = Book(1, "Same Title", "Author", Genre.FICTION, 2020)
         book2 = Book(2, "Same Title", "Different Author", Genre.ROMANCE, 2021)
         book3 = Book(3, "Different Title", "Author", Genre.FICTION, 2020)
@@ -43,7 +43,7 @@ class TestBook(unittest.TestCase):
         self.assertNotEqual(book1, book3)
         
     def test_book_comparison(self):
-        """测试比较运算符(基于标题)/ Test book comparison operators (based on title)"""
+        """测试比较运算符(基于标题) Test book comparison operators (based on title)"""
         book1 = Book(1, "A Title", "Author", Genre.FICTION, 2020)
         book2 = Book(2, "B Title", "Author", Genre.FICTION, 2020)
         

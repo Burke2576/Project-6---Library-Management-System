@@ -5,7 +5,7 @@ import unittest
 # 调试信息 - 打印当前文件路径
 # Debugging Information - Print Current File Path
 current_file = os.path.abspath(__file__)
-print(f"\n当前测试文件路径/ Current test file path: {current_file}")
+print(f"\n当前测试文件路径 Current test file path: {current_file}")
 
 # 计算项目根目录（三级目录结构）
 # Calculate the root directory of the project (three-level directory structure)
@@ -18,23 +18,23 @@ if not os.path.exists(src_path):
     project_root = os.path.dirname(os.path.dirname(current_file))
     src_path = os.path.join(project_root, "src")
 
-print(f"计算项目根目录/ Calculated project root directory: {project_root}")
-print(f"计算的src路径/ Calculated src path: {src_path}")
+print(f"计算项目根目录 Calculated project root directory: {project_root}")
+print(f"计算的src路径 Calculated src path: {src_path}")
 
 # 检查并添加路径
 # Check and add path
 if os.path.exists(src_path):
     if src_path not in sys.path:
         sys.path.insert(0, src_path)
-    print(f"src目录存在,内容/ The src directory exists with the following content: {os.listdir(src_path)}")
+    print(f"src目录存在,内容 The src directory exists with the following content: {os.listdir(src_path)}")
 else:
-    print(f"错误: src目录不存在于/ Error: The src directory does not exist in {src_path}")
-    print("当前工作目录内容/ Current working directory content:", os.listdir(project_root))
-    raise ImportError("无法找到src目录/ Unable to find src directory")
+    print(f"错误: src目录不存在于 Error: The src directory does not exist in {src_path}")
+    print("当前工作目录内容 Current working directory content:", os.listdir(project_root))
+    raise ImportError("无法找到src目录 Unable to find src directory")
 
 # 打印最终Python路径
 # Print the final Python path
-print("\n最终Python路径/ Final Python path:")
+print("\n最终Python路径Final Python path:")
 for i, path in enumerate(sys.path, 1):
     print(f"{i}. {path}")
 
@@ -45,19 +45,19 @@ try:
     from models.Genre import Genre
     from models.btree import BTree
     from models.btreenode import BTreeNode
-    print("\n✅ 核心模块导入成功/ Core module imported successfully")
+    print("\n✅ 核心模块导入成功 Core module imported successfully")
 except ImportError as e:
-    print(f"\n❌ 核心模块导入失败/ Core module import failed: {e}")
+    print(f"\n❌ 核心模块导入失败 Core module import failed: {e}")
     if os.path.exists(src_path):
-        print("\n尝试手动检查模块路径/ Attempt to manually check the module path:")
+        print("\n尝试手动检查模块路径 Attempt to manually check the module path:")
         models_path = os.path.join(src_path, "models")
         if os.path.exists(models_path):
-            print(f"models 目录内容/ Models directory content: {os.listdir(models_path)}")
+            print(f"models 目录内容 Models directory content: {os.listdir(models_path)}")
     raise
 
 class TestBook(unittest.TestCase):
     def test_book_creation(self):
-        """测试图书创建(所有属性)/ Test book creation (all attributes)"""
+        """测试图书创建(所有属性) Test book creation (all attributes)"""
         book = Book(1, "Test Book", "Author", Genre.FICTION, 2020)
         self.assertEqual(book.book_ID, 1)
         self.assertEqual(book.title, "Test Book")
@@ -67,16 +67,16 @@ class TestBook(unittest.TestCase):
         self.assertTrue(book.available)
         
     def test_book_equality(self):
-        """测试图书相等性(基于ID而非标题)/ Test book equality (based on ID rather than title)"""
+        """测试图书相等性(基于ID而非标题) Test book equality (based on ID rather than title)"""
         book1 = Book(1, "Same Title", "Author", Genre.FICTION, 2020)
-        book2 = Book(1, "Different Title", "Other Author", Genre.ROMANCE, 2021)  # 相同/ID Same ID
-        book3 = Book(2, "Same Title", "Author", Genre.FICTION, 2020)  # 不同/ID Different ID
+        book2 = Book(1, "Different Title", "Other Author", Genre.ROMANCE, 2021)  # 相同ID Same ID
+        book3 = Book(2, "Same Title", "Author", Genre.FICTION, 2020)  # 不同ID Different ID
         
         self.assertEqual(book1, book2)  # ID相同应相等 Same ID should be equal
         self.assertNotEqual(book1, book3)  # ID不同应不等 Different IDs should not be the same
         
     def test_book_comparison(self):
-        """测试图书比较(基于标题)/ Comparison of Test Books (Based on Titles)"""
+        """测试图书比较(基于标题) Comparison of Test Books (Based on Titles)"""
         book1 = Book(1, "A Title", "Author", Genre.FICTION, 2020)
         book2 = Book(2, "B Title", "Author", Genre.FICTION, 2020)
         
@@ -85,7 +85,7 @@ class TestBook(unittest.TestCase):
 
 class TestBTreeNode(unittest.TestCase):
     def test_node_creation(self):
-        """测试B树节点初始化/ Test the initialization of B-tree nodes"""
+        """测试B树节点初始化 Test the initialization of B-tree nodes"""
         node = BTreeNode(t=3, leaf=True)
         self.assertEqual(node.t, 3)
         self.assertTrue(node.leaf)
@@ -94,7 +94,7 @@ class TestBTreeNode(unittest.TestCase):
 
 class TestBTree(unittest.TestCase):
     def setUp(self):
-        """初始化B树和测试数据/ Initialize B-tree and test data"""
+        """初始化B树和测试数据 Initialize B-tree and test data"""
         self.btree = BTree(t=3)
         self.books = [
             Book(1, "Book A", "Author 1", Genre.FICTION, 2000),
@@ -105,7 +105,7 @@ class TestBTree(unittest.TestCase):
         ]
         
     def test_insert_and_traverse(self):
-        """测试插入和遍历(排序顺序)/ Test insertion and traversal (sorting order)"""
+        """测试插入和遍历(排序顺序) Test insertion and traversal (sorting order)"""
         for book in self.books:
             self.btree.insert(book)
             
@@ -115,7 +115,7 @@ class TestBTree(unittest.TestCase):
         self.assertEqual(titles, sorted(titles))
         
     def test_search(self):
-        """测试搜索功能/ Test the search function"""
+        """测试搜索功能 Test the search function"""
         for book in self.books:
             self.btree.insert(book)
             
@@ -131,7 +131,7 @@ class TestBTree(unittest.TestCase):
         self.assertIsNone(not_found)
     
     def test_update_availability(self):
-        """测试更新可用性状态/ Test update availability status"""
+        """测试更新可用性状态 Test update availability status"""
         for book in self.books:
             self.btree.insert(book)
             
@@ -146,7 +146,7 @@ class TestBTree(unittest.TestCase):
         self.assertFalse(self.btree.update_availability(999, True))
         
     def test_delete_book(self):
-        """测试删除书籍/ Test deleting books"""
+        """测试删除书籍 Test deleting books"""
         for book in self.books:
             self.btree.insert(book)
             
