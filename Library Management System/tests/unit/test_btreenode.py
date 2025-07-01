@@ -2,10 +2,8 @@ import sys
 import os
 
 # 获取项目根目录（"Library Management System/" 的路径）
-# # Retrieve the root directory of the project (path to 'Library Management System/')
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # 将 src/ 目录加入 Python 路径
-# Add src/directory to Python path
 sys.path.append(os.path.join(PROJECT_ROOT, "src"))
 
 import unittest

@@ -1,0 +1,13 @@
+﻿book_ID,title,author,genre,publication_year,availability
+1,The Great Gatsby,F. Scott Fitzgerald,FICTION,1925,TRUE
+2,1984,George Orwell,FICTION,1949,TRUE
+3,To Kill a Mockingbird,Harper Lee,FICTION,1960,TRUE
+4,A Brief History of Time,Stephen Hawking,SCIENCE,1988,TRUE
+5,The Art of War,Sun Tzu,HISTORY,500,TRUE
+6,Pride and Prejudice,Jane Austen,ROMANCE,1813,TRUE
+7,The Catcher in the Rye,J.D. Salinger,FICTION,1951,TRUE
+8,The Hobbit,J.R.R. Tolkien,FICTION,1937,TRUE
+9,Moby Dick,Herman Melville,FICTION,1851,TRUE
+10,War and Peace,Leo Tolstoy,FICTION,1869,TRUE
+11,Jane Eyre,Charlotte Bront,ROMANCE,1847,TRUE
+12,Wuthering Heights,Emily Bront,ROMANCE,1847,TRUE
