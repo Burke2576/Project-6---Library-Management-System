@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="0.071" timestamp="2025-07-03T14:16:21.457883+08:00" hostname="LAPTOP-E5D1FI36"><testcase classname="tests.unit.test_btreenode.TestBTreeNode" name="test_node_creation" file="tests\unit\test_btreenode.py" line="22" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase></testsuite></testsuites>

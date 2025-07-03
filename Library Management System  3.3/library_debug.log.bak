@@ -1,0 +1,352 @@
+2025-07-03 09:56:32,947 - INFO - ==================================================
+2025-07-03 09:56:32,948 - INFO - 启动环境调试信息:
+2025-07-03 09:56:32,948 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 09:56:32,948 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 09:56:33,006 - INFO - RecommendationService 加载成功
+2025-07-03 09:56:33,006 - INFO - reset_books 存在: True
+2025-07-03 09:56:33,006 - INFO - ==================================================
+2025-07-03 09:56:33,008 - INFO - 成功导入 LibraryApp
+2025-07-03 09:56:33,092 - INFO - LibraryApp 实例创建成功
+2025-07-03 09:56:33,104 - INFO - 已调用显示登录界面方法
+2025-07-03 10:12:03,430 - INFO - ==================================================
+2025-07-03 10:12:03,430 - INFO - 启动环境调试信息:
+2025-07-03 10:12:03,430 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:12:03,430 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:12:03,487 - INFO - RecommendationService 加载成功
+2025-07-03 10:12:03,487 - INFO - reset_books 存在: True
+2025-07-03 10:12:03,487 - INFO - ==================================================
+2025-07-03 10:12:03,489 - INFO - 成功导入 LibraryApp
+2025-07-03 10:12:03,567 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:12:03,572 - INFO - 已调用显示登录界面方法
+2025-07-03 10:12:22,586 - INFO - ==================================================
+2025-07-03 10:12:22,587 - INFO - 启动环境调试信息:
+2025-07-03 10:12:22,587 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:12:22,587 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:12:22,642 - INFO - RecommendationService 加载成功
+2025-07-03 10:12:22,642 - INFO - reset_books 存在: True
+2025-07-03 10:12:22,642 - INFO - ==================================================
+2025-07-03 10:12:22,652 - INFO - 成功导入 LibraryApp
+2025-07-03 10:12:22,762 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:12:22,765 - INFO - 已调用显示登录界面方法
+2025-07-03 10:20:45,110 - INFO - ==================================================
+2025-07-03 10:20:45,110 - INFO - 启动环境调试信息:
+2025-07-03 10:20:45,110 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:20:45,110 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:20:45,168 - INFO - RecommendationService 加载成功
+2025-07-03 10:20:45,168 - INFO - reset_books 存在: True
+2025-07-03 10:20:45,168 - INFO - ==================================================
+2025-07-03 10:20:45,185 - INFO - 成功导入 LibraryApp
+2025-07-03 10:20:45,285 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:20:45,287 - INFO - 已调用显示登录界面方法
+2025-07-03 10:25:46,694 - INFO - ==================================================
+2025-07-03 10:25:46,694 - INFO - 启动环境调试信息:
+2025-07-03 10:25:46,694 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:25:46,694 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:25:46,753 - INFO - RecommendationService 加载成功
+2025-07-03 10:25:46,753 - INFO - reset_books 存在: True
+2025-07-03 10:25:46,753 - INFO - ==================================================
+2025-07-03 10:25:46,763 - INFO - 成功导入 LibraryApp
+2025-07-03 10:25:46,867 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:25:46,869 - INFO - 已调用显示登录界面方法
+2025-07-03 10:27:21,726 - INFO - ==================================================
+2025-07-03 10:27:21,726 - INFO - 启动环境调试信息:
+2025-07-03 10:27:21,726 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:27:21,726 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:27:21,794 - INFO - RecommendationService 加载成功
+2025-07-03 10:27:21,794 - INFO - reset_books 存在: True
+2025-07-03 10:27:21,794 - INFO - ==================================================
+2025-07-03 10:27:21,797 - INFO - 成功导入 LibraryApp
+2025-07-03 10:27:21,923 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:27:21,927 - INFO - 已调用显示登录界面方法
+2025-07-03 10:33:32,324 - INFO - ==================================================
+2025-07-03 10:33:32,324 - INFO - 启动环境调试信息:
+2025-07-03 10:33:32,324 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:33:32,324 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:33:32,379 - INFO - RecommendationService 加载成功
+2025-07-03 10:33:32,379 - INFO - reset_books 存在: True
+2025-07-03 10:33:32,379 - INFO - ==================================================
+2025-07-03 10:33:32,389 - INFO - 成功导入 LibraryApp
+2025-07-03 10:33:32,485 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:33:32,487 - INFO - 已调用显示登录界面方法
+2025-07-03 10:37:37,293 - INFO - ==================================================
+2025-07-03 10:37:37,293 - INFO - 启动环境调试信息:
+2025-07-03 10:37:37,293 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:37:37,293 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:37:37,349 - INFO - RecommendationService 加载成功
+2025-07-03 10:37:37,349 - INFO - reset_books 存在: True
+2025-07-03 10:37:37,349 - INFO - ==================================================
+2025-07-03 10:37:37,351 - INFO - 成功导入 LibraryApp
+2025-07-03 10:37:37,447 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:37:37,449 - INFO - 已调用显示登录界面方法
+2025-07-03 10:39:27,645 - INFO - ==================================================
+2025-07-03 10:39:27,645 - INFO - 启动环境调试信息:
+2025-07-03 10:39:27,645 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:39:27,645 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:39:27,699 - INFO - RecommendationService 加载成功
+2025-07-03 10:39:27,699 - INFO - reset_books 存在: True
+2025-07-03 10:39:27,699 - INFO - ==================================================
+2025-07-03 10:39:27,710 - INFO - 成功导入 LibraryApp
+2025-07-03 10:39:27,807 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:39:27,809 - INFO - 已调用显示登录界面方法
+2025-07-03 10:40:05,368 - INFO - ==================================================
+2025-07-03 10:40:05,369 - INFO - 启动环境调试信息:
+2025-07-03 10:40:05,369 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:40:05,369 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:40:05,436 - INFO - RecommendationService 加载成功
+2025-07-03 10:40:05,437 - INFO - reset_books 存在: True
+2025-07-03 10:40:05,437 - INFO - ==================================================
+2025-07-03 10:40:05,448 - INFO - 成功导入 LibraryApp
+2025-07-03 10:40:05,572 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:40:05,576 - INFO - 已调用显示登录界面方法
+2025-07-03 10:41:12,790 - INFO - ==================================================
+2025-07-03 10:41:12,791 - INFO - 启动环境调试信息:
+2025-07-03 10:41:12,791 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:41:12,791 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:41:12,848 - INFO - RecommendationService 加载成功
+2025-07-03 10:41:12,849 - INFO - reset_books 存在: True
+2025-07-03 10:41:12,849 - INFO - ==================================================
+2025-07-03 10:41:12,859 - INFO - 成功导入 LibraryApp
+2025-07-03 10:41:12,938 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:41:12,943 - INFO - 已调用显示登录界面方法
+2025-07-03 10:41:33,783 - INFO - ==================================================
+2025-07-03 10:41:33,783 - INFO - 启动环境调试信息:
+2025-07-03 10:41:33,783 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:41:33,783 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:41:33,837 - INFO - RecommendationService 加载成功
+2025-07-03 10:41:33,837 - INFO - reset_books 存在: True
+2025-07-03 10:41:33,837 - INFO - ==================================================
+2025-07-03 10:41:33,844 - INFO - 成功导入 LibraryApp
+2025-07-03 10:41:33,935 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:41:33,937 - INFO - 已调用显示登录界面方法
+2025-07-03 10:41:52,975 - INFO - ==================================================
+2025-07-03 10:41:52,975 - INFO - 启动环境调试信息:
+2025-07-03 10:41:52,975 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:41:52,975 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:41:53,030 - INFO - RecommendationService 加载成功
+2025-07-03 10:41:53,030 - INFO - reset_books 存在: True
+2025-07-03 10:41:53,030 - INFO - ==================================================
+2025-07-03 10:41:53,050 - INFO - 成功导入 LibraryApp
+2025-07-03 10:41:53,143 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:41:53,144 - INFO - 已调用显示登录界面方法
+2025-07-03 10:43:35,834 - INFO - ==================================================
+2025-07-03 10:43:35,834 - INFO - 启动环境调试信息:
+2025-07-03 10:43:35,834 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:43:35,834 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:43:35,891 - INFO - RecommendationService 加载成功
+2025-07-03 10:43:35,891 - INFO - reset_books 存在: True
+2025-07-03 10:43:35,891 - INFO - ==================================================
+2025-07-03 10:43:35,902 - INFO - 成功导入 LibraryApp
+2025-07-03 10:43:35,996 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:43:35,998 - INFO - 已调用显示登录界面方法
+2025-07-03 10:44:52,318 - INFO - ==================================================
+2025-07-03 10:44:52,318 - INFO - 启动环境调试信息:
+2025-07-03 10:44:52,318 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:44:52,318 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:44:52,390 - INFO - RecommendationService 加载成功
+2025-07-03 10:44:52,390 - INFO - reset_books 存在: True
+2025-07-03 10:44:52,390 - INFO - ==================================================
+2025-07-03 10:44:52,393 - INFO - 成功导入 LibraryApp
+2025-07-03 10:44:52,512 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:44:52,515 - INFO - 已调用显示登录界面方法
+2025-07-03 10:49:22,870 - INFO - ==================================================
+2025-07-03 10:49:22,870 - INFO - 启动环境调试信息:
+2025-07-03 10:49:22,870 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:49:22,870 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:49:22,926 - INFO - RecommendationService 加载成功
+2025-07-03 10:49:22,926 - INFO - reset_books 存在: True
+2025-07-03 10:49:22,926 - INFO - ==================================================
+2025-07-03 10:49:22,936 - INFO - 成功导入 LibraryApp
+2025-07-03 10:49:23,037 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:49:23,039 - INFO - 已调用显示登录界面方法
+2025-07-03 10:57:18,928 - INFO - ==================================================
+2025-07-03 10:57:18,928 - INFO - 启动环境调试信息:
+2025-07-03 10:57:18,928 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 10:57:18,928 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 10:57:18,985 - INFO - RecommendationService 加载成功
+2025-07-03 10:57:18,985 - INFO - reset_books 存在: True
+2025-07-03 10:57:18,985 - INFO - ==================================================
+2025-07-03 10:57:18,987 - INFO - 成功导入 LibraryApp
+2025-07-03 10:57:19,087 - INFO - LibraryApp 实例创建成功
+2025-07-03 10:57:19,089 - INFO - 已调用显示登录界面方法
+2025-07-03 11:04:03,569 - INFO - ==================================================
+2025-07-03 11:04:03,569 - INFO - 启动环境调试信息:
+2025-07-03 11:04:03,569 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 11:04:03,569 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 11:04:03,717 - INFO - RecommendationService 加载成功
+2025-07-03 11:04:03,717 - INFO - reset_books 存在: True
+2025-07-03 11:04:03,717 - INFO - ==================================================
+2025-07-03 11:04:03,735 - INFO - 成功导入 LibraryApp
+2025-07-03 11:04:03,884 - INFO - LibraryApp 实例创建成功
+2025-07-03 11:04:03,886 - INFO - 已调用显示登录界面方法
+2025-07-03 11:09:40,501 - INFO - ==================================================
+2025-07-03 11:09:40,501 - INFO - 启动环境调试信息:
+2025-07-03 11:09:40,501 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 11:09:40,501 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 11:09:40,564 - INFO - RecommendationService 加载成功
+2025-07-03 11:09:40,564 - INFO - reset_books 存在: True
+2025-07-03 11:09:40,564 - INFO - ==================================================
+2025-07-03 11:09:40,574 - INFO - 成功导入 LibraryApp
+2025-07-03 11:09:54,893 - INFO - LibraryApp 实例创建成功
+2025-07-03 11:09:54,894 - INFO - 已调用显示登录界面方法
+2025-07-03 11:19:52,945 - INFO - ==================================================
+2025-07-03 11:19:52,945 - INFO - 启动环境调试信息:
+2025-07-03 11:19:52,945 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 11:19:52,945 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 11:19:53,002 - INFO - RecommendationService 加载成功
+2025-07-03 11:19:53,002 - INFO - reset_books 存在: True
+2025-07-03 11:19:53,002 - INFO - ==================================================
+2025-07-03 11:19:53,019 - INFO - 成功导入 LibraryApp
+2025-07-03 11:19:53,143 - INFO - LibraryApp 实例创建成功
+2025-07-03 11:19:53,144 - INFO - 已调用显示登录界面方法
+2025-07-03 11:31:20,071 - INFO - ==================================================
+2025-07-03 11:31:20,071 - INFO - 启动环境调试信息:
+2025-07-03 11:31:20,071 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 11:31:20,071 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 11:31:20,140 - INFO - RecommendationService 加载成功
+2025-07-03 11:31:20,140 - INFO - reset_books 存在: True
+2025-07-03 11:31:20,140 - INFO - ==================================================
+2025-07-03 11:31:20,149 - INFO - 成功导入 LibraryApp
+2025-07-03 11:31:20,254 - INFO - LibraryApp 实例创建成功
+2025-07-03 11:31:20,257 - INFO - 已调用显示登录界面方法
+2025-07-03 11:40:09,047 - INFO - ==================================================
+2025-07-03 11:40:09,047 - INFO - 启动环境调试信息:
+2025-07-03 11:40:09,047 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 11:40:09,047 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 11:40:09,105 - INFO - RecommendationService 加载成功
+2025-07-03 11:40:09,105 - INFO - reset_books 存在: True
+2025-07-03 11:40:09,105 - INFO - ==================================================
+2025-07-03 11:40:09,116 - INFO - 成功导入 LibraryApp
+2025-07-03 11:40:09,210 - INFO - LibraryApp 实例创建成功
+2025-07-03 11:40:09,212 - INFO - 已调用显示登录界面方法
+2025-07-03 11:41:00,508 - INFO - ==================================================
+2025-07-03 11:41:00,508 - INFO - 启动环境调试信息:
+2025-07-03 11:41:00,508 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 11:41:00,508 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 11:41:00,562 - INFO - RecommendationService 加载成功
+2025-07-03 11:41:00,562 - INFO - reset_books 存在: True
+2025-07-03 11:41:00,562 - INFO - ==================================================
+2025-07-03 11:41:00,572 - INFO - 成功导入 LibraryApp
+2025-07-03 11:41:00,669 - INFO - LibraryApp 实例创建成功
+2025-07-03 11:41:00,671 - INFO - 已调用显示登录界面方法
+2025-07-03 12:20:10,529 - INFO - ==================================================
+2025-07-03 12:20:10,530 - INFO - 启动环境调试信息:
+2025-07-03 12:20:10,530 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 12:20:10,530 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 12:20:10,586 - INFO - RecommendationService 加载成功
+2025-07-03 12:20:10,586 - INFO - reset_books 存在: True
+2025-07-03 12:20:10,586 - INFO - ==================================================
+2025-07-03 12:20:10,598 - INFO - 成功导入 LibraryApp
+2025-07-03 12:20:10,695 - INFO - LibraryApp 实例创建成功
+2025-07-03 12:20:10,697 - INFO - 已调用显示登录界面方法
+2025-07-03 12:20:31,754 - INFO - Added book: 1111 (ID: 1111)
+2025-07-03 13:49:24,176 - INFO - ==================================================
+2025-07-03 13:49:24,176 - INFO - 启动环境调试信息:
+2025-07-03 13:49:24,177 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 13:49:24,177 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 13:49:24,237 - INFO - RecommendationService 加载成功
+2025-07-03 13:49:24,237 - INFO - reset_books 存在: True
+2025-07-03 13:49:24,237 - INFO - ==================================================
+2025-07-03 13:49:24,244 - INFO - 成功导入 LibraryApp
+2025-07-03 13:49:24,392 - INFO - LibraryApp 实例创建成功
+2025-07-03 13:49:24,395 - INFO - 已调用显示登录界面方法
+2025-07-03 13:49:53,789 - INFO - Added book: 1111 (ID: 1111)
+2025-07-03 13:50:04,978 - INFO - Added book: 122 (ID: 122)
+2025-07-03 13:50:15,255 - INFO - Added book: 123 (ID: 123)
+2025-07-03 13:50:35,744 - INFO - Added book: 124 (ID: 124)
+2025-07-03 13:51:08,398 - INFO - Added book: 123 (ID: 125)
+2025-07-03 14:10:16,873 - INFO - ==================================================
+2025-07-03 14:10:16,873 - INFO - 启动环境调试信息:
+2025-07-03 14:10:16,873 - INFO - 当前工作目录: D:\OneDrive\桌面\Library Management System 3.2
+2025-07-03 14:10:16,873 - INFO - Python路径: ['d:\\OneDrive\\桌面\\Library Management System 3.2\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 14:10:17,322 - INFO - RecommendationService 加载成功
+2025-07-03 14:10:17,322 - INFO - reset_books 存在: True
+2025-07-03 14:10:17,322 - INFO - ==================================================
+2025-07-03 14:10:17,330 - INFO - 成功导入 LibraryApp
+2025-07-03 14:10:17,573 - INFO - LibraryApp 实例创建成功
+2025-07-03 14:10:17,576 - INFO - 已调用显示登录界面方法
+2025-07-03 15:03:47,406 - INFO - ==================================================
+2025-07-03 15:03:47,406 - INFO - 启动环境调试信息:
+2025-07-03 15:03:47,407 - INFO - 当前工作目录: D:\OneDrive\桌面\111111
+2025-07-03 15:03:47,407 - INFO - Python路径: ['d:\\OneDrive\\桌面\\111111\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 15:03:47,462 - INFO - RecommendationService 加载成功
+2025-07-03 15:03:47,462 - INFO - reset_books 存在: True
+2025-07-03 15:03:47,462 - INFO - ==================================================
+2025-07-03 15:03:47,463 - INFO - 成功导入 LibraryApp
+2025-07-03 15:03:47,568 - INFO - LibraryApp 实例创建成功
+2025-07-03 15:03:47,572 - INFO - 已调用显示登录界面方法
+2025-07-03 15:04:13,629 - INFO - Added book: 20 (ID: 20)
+2025-07-03 15:04:31,876 - INFO - Added book: 21 (ID: 21)
+2025-07-03 15:05:21,146 - INFO - Added book: 202 (ID: 23)
+2025-07-03 15:34:47,046 - INFO - ==================================================
+2025-07-03 15:34:47,046 - INFO - Start environment debugging information:
+2025-07-03 15:34:47,046 - INFO - current working directory: D:\OneDrive\桌面\111111
+2025-07-03 15:34:47,046 - INFO - Python Path: ['d:\\OneDrive\\桌面\\111111\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 15:34:47,116 - INFO - RecommendationService Loading successful
+2025-07-03 15:34:47,116 - INFO - reset_books exist: True
+2025-07-03 15:34:47,116 - INFO - ==================================================
+2025-07-03 15:34:47,118 - INFO - Successfully imported LibraryApp
+2025-07-03 15:34:47,239 - INFO - LibraryApp Instance created successfully
+2025-07-03 15:34:47,242 - INFO - The method to display the login interface has been called
+2025-07-03 15:53:27,550 - INFO - ==================================================
+2025-07-03 15:53:27,550 - INFO - Start environment debugging information:
+2025-07-03 15:53:27,550 - INFO - current working directory: D:\OneDrive\桌面\111111
+2025-07-03 15:53:27,550 - INFO - Python Path: ['d:\\OneDrive\\桌面\\111111\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 15:53:27,619 - INFO - RecommendationService Loading successful
+2025-07-03 15:53:27,619 - INFO - reset_books exist: True
+2025-07-03 15:53:27,619 - INFO - ==================================================
+2025-07-03 15:53:27,621 - INFO - Successfully imported LibraryApp
+2025-07-03 15:53:27,768 - INFO - LibraryApp Instance created successfully
+2025-07-03 15:53:27,772 - INFO - The method to display the login interface has been called
+2025-07-03 15:55:24,637 - INFO - Added book: 20 (ID: 20)
+2025-07-03 15:55:35,664 - INFO - Added book: 21 (ID: 21)
+2025-07-03 15:55:49,237 - INFO - Added book: 12 (ID: 23)
+2025-07-03 16:29:48,741 - INFO - ==================================================
+2025-07-03 16:29:48,741 - INFO - Start environment debugging information:
+2025-07-03 16:29:48,741 - INFO - current working directory: D:\OneDrive\桌面\111111
+2025-07-03 16:29:48,741 - INFO - Python Path: ['d:\\OneDrive\\桌面\\111111\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 16:29:48,806 - INFO - RecommendationService Loading successful
+2025-07-03 16:29:48,806 - INFO - reset_books exist: True
+2025-07-03 16:29:48,806 - INFO - ==================================================
+2025-07-03 16:29:48,809 - INFO - Successfully imported LibraryApp
+2025-07-03 16:29:48,927 - INFO - LibraryApp Instance created successfully
+2025-07-03 16:29:48,929 - INFO - The method to display the login interface has been called
+2025-07-03 16:30:24,563 - INFO - ==================================================
+2025-07-03 16:30:24,563 - INFO - Start environment debugging information:
+2025-07-03 16:30:24,563 - INFO - current working directory: D:\OneDrive\桌面\111111
+2025-07-03 16:30:24,563 - INFO - Python Path: ['d:\\OneDrive\\桌面\\111111\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 16:30:24,618 - INFO - RecommendationService Loading successful
+2025-07-03 16:30:24,618 - INFO - reset_books exist: True
+2025-07-03 16:30:24,618 - INFO - ==================================================
+2025-07-03 16:30:24,620 - INFO - Successfully imported LibraryApp
+2025-07-03 16:30:24,724 - INFO - LibraryApp Instance created successfully
+2025-07-03 16:30:24,728 - INFO - The method to display the login interface has been called
+2025-07-03 16:30:43,346 - INFO - ==================================================
+2025-07-03 16:30:43,346 - INFO - Start environment debugging information:
+2025-07-03 16:30:43,346 - INFO - current working directory: D:\OneDrive\桌面\111111
+2025-07-03 16:30:43,346 - INFO - Python Path: ['d:\\OneDrive\\桌面\\111111\\src', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-07-03 16:30:43,410 - INFO - RecommendationService Loading successful
+2025-07-03 16:30:43,410 - INFO - reset_books exist: True
+2025-07-03 16:30:43,410 - INFO - ==================================================
+2025-07-03 16:30:43,412 - INFO - Successfully imported LibraryApp
+2025-07-03 16:30:43,534 - INFO - LibraryApp Instance created successfully
+2025-07-03 16:30:43,538 - INFO - The method to display the login interface has been called
+2025-07-03 17:29:56,102 - INFO - ==================================================
+2025-07-03 17:29:56,102 - INFO - Start environment debugging information:
+2025-07-03 17:29:56,102 - INFO - current working directory: d:\OneDrive\桌面\111111
+2025-07-03 17:29:56,102 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\111111', 'd:\\OneDrive\\桌面\\111111\\tests', '.', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\unittestadapter\\lib\\python', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\unittestadapter', 'd:\\OneDrive\\桌面\\111111', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\unittestadapter', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\unittestadapter', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\lib\\python', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\lib\\python', 'd:\\OneDrive\\桌面\\111111\\src']
+2025-07-03 17:29:56,102 - INFO - RecommendationService Loading successful
+2025-07-03 17:29:56,103 - INFO - reset_books exist: True
+2025-07-03 17:29:56,103 - INFO - ==================================================
+2025-07-03 17:29:56,103 - INFO - Successfully imported LibraryApp
+2025-07-03 17:29:56,103 - INFO - LibraryApp Instance created successfully
+2025-07-03 17:29:56,103 - INFO - The method to display the login interface has been called
+2025-07-03 17:30:03,073 - INFO - ==================================================
+2025-07-03 17:30:03,074 - INFO - Start environment debugging information:
+2025-07-03 17:30:03,074 - INFO - current working directory: d:\OneDrive\桌面\111111
+2025-07-03 17:30:03,074 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\111111', 'd:\\OneDrive\\桌面\\111111\\tests', '.', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\unittestadapter\\lib\\python', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\unittestadapter', 'd:\\OneDrive\\桌面\\111111', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\unittestadapter', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\unittestadapter', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\lib\\python', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\lib\\python', 'c:\\Users\\hry2576\\.vscode\\extensions\\ms-python.python-2025.8.0-win32-x64\\python_files\\lib\\python', 'd:\\OneDrive\\桌面\\111111\\src']
+2025-07-03 17:30:03,075 - INFO - RecommendationService Loading successful
+2025-07-03 17:30:03,075 - INFO - reset_books exist: True
+2025-07-03 17:30:03,075 - INFO - ==================================================
+2025-07-03 17:30:03,075 - INFO - Successfully imported LibraryApp
+2025-07-03 17:30:03,075 - INFO - LibraryApp Instance created successfully
+2025-07-03 17:30:03,075 - INFO - The method to display the login interface has been called

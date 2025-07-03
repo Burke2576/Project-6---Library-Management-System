@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="12" time="0.095" timestamp="2025-07-03T14:15:42.892121+08:00" hostname="LAPTOP-E5D1FI36"><testcase classname="tests.unit.test_book.TestBook" name="test_book_comparison" file="tests\unit\test_book.py" line="42" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_book.TestBook" name="test_book_creation" file="tests\unit\test_book.py" line="23" time="0.000"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_book.TestBook" name="test_book_equality" file="tests\unit\test_book.py" line="33" time="0.001"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_btree.TestBTree" name="test_delete_book" file="tests\unit\test_btree.py" line="79" time="0.000"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_btree.TestBTree" name="test_edge_cases" file="tests\unit\test_btree.py" line="95" time="0.001"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_btree.TestBTree" name="test_insert_and_print_tree" file="tests\unit\test_btree.py" line="136" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+Inserting books and printing B-tree structure at specified intervals:
+
+After inserting 20 books:
+|-- ['Book 17']
+  |-- ['Book 11', 'Book 14']
+    |-- ['Book 1', 'Book 10']
+    |-- ['Book 12', 'Book 13']
+    |-- ['Book 15', 'Book 16']
+  |-- ['Book 3', 'Book 6']
+    |-- ['Book 18', 'Book 19', 'Book 2', 'Book 20']
+    |-- ['Book 4', 'Book 5']
+    |-- ['Book 7', 'Book 8', 'Book 9']
+
+After inserting 40 books:
+|-- ['Book 17', 'Book 25', 'Book 35']
+  |-- ['Book 11', 'Book 14']
+    |-- ['Book 1', 'Book 10']
+    |-- ['Book 12', 'Book 13']
+    |-- ['Book 15', 'Book 16']
+  |-- ['Book 2', 'Book 22']
+    |-- ['Book 18', 'Book 19']
+    |-- ['Book 20', 'Book 21']
+    |-- ['Book 23', 'Book 24']
+  |-- ['Book 3', 'Book 32']
+    |-- ['Book 26', 'Book 27', 'Book 28', 'Book 29']
+    |-- ['Book 30', 'Book 31']
+    |-- ['Book 33', 'Book 34']
+  |-- ['Book 38', 'Book 6']
+    |-- ['Book 36', 'Book 37']
+    |-- ['Book 39', 'Book 4', 'Book 40', 'Book 5']
+    |-- ['Book 7', 'Book 8', 'Book 9']
+
+After inserting 60 books:
+|-- ['Book 35']
+  |-- ['Book 17', 'Book 25']
+    |-- ['Book 11', 'Book 14']
+      |-- ['Book 1', 'Book 10']
+      |-- ['Book 12', 'Book 13']
+      |-- ['Book 15', 'Book 16']
+    |-- ['Book 2', 'Book 22']
+      |-- ['Book 18', 'Book 19']
+      |-- ['Book 20', 'Book 21']
+      |-- ['Book 23', 'Book 24']
+    |-- ['Book 3', 'Book 32']
+      |-- ['Book 26', 'Book 27', 'Book 28', 'Book 29']
+      |-- ['Book 30', 'Book 31']
+      |-- ['Book 33', 'Book 34']
+  |-- ['Book 43', 'Book 51']
+    |-- ['Book 38', 'Book 40']
+      |-- ['Book 36', 'Book 37']
+      |-- ['Book 39', 'Book 4']
+      |-- ['Book 41', 'Book 42']
+    |-- ['Book 46', 'Book 49']
+      |-- ['Book 44', 'Book 45']
+      |-- ['Book 47', 'Book 48']
+      |-- ['Book 5', 'Book 50']
+    |-- ['Book 54', 'Book 6']
+      |-- ['Book 52', 'Book 53']
+      |-- ['Book 55', 'Book 56', 'Book 57', 'Book 58', 'Book 59']
+      |-- ['Book 60', 'Book 7', 'Book 8', 'Book 9']
+
+After inserting 80 books:
+|-- ['Book 35']
+  |-- ['Book 17', 'Book 25']
+    |-- ['Book 11', 'Book 14']
+      |-- ['Book 1', 'Book 10']
+      |-- ['Book 12', 'Book 13']
+      |-- ['Book 15', 'Book 16']
+    |-- ['Book 2', 'Book 22']
+      |-- ['Book 18', 'Book 19']
+      |-- ['Book 20', 'Book 21']
+      |-- ['Book 23', 'Book 24']
+    |-- ['Book 3', 'Book 32']
+      |-- ['Book 26', 'Book 27', 'Book 28', 'Book 29']
+      |-- ['Book 30', 'Book 31']
+      |-- ['Book 33', 'Book 34']
+  |-- ['Book 43', 'Book 51', 'Book 62', 'Book 72']
+    |-- ['Book 38', 'Book 40']
+      |-- ['Book 36', 'Book 37']
+      |-- ['Book 39', 'Book 4']
+      |-- ['Book 41', 'Book 42']
+    |-- ['Book 46', 'Book 49']
+      |-- ['Book 44', 'Book 45']
+      |-- ['Book 47', 'Book 48']
+      |-- ['Book 5', 'Book 50']
+    |-- ['Book 54', 'Book 6']
+      |-- ['Book 52', 'Book 53']
+      |-- ['Book 55', 'Book 56', 'Book 57', 'Book 58', 'Book 59']
+      |-- ['Book 60', 'Book 61']
+    |-- ['Book 65', 'Book 7']
+      |-- ['Book 63', 'Book 64']
+      |-- ['Book 66', 'Book 67', 'Book 68', 'Book 69']
+      |-- ['Book 70', 'Book 71']
+    |-- ['Book 75', 'Book 78']
+      |-- ['Book 73', 'Book 74']
+      |-- ['Book 76', 'Book 77']
+      |-- ['Book 79', 'Book 8', 'Book 80', 'Book 9']
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_btree.TestBTree" name="test_insert_and_traverse" file="tests\unit\test_btree.py" line="34" time="0.000"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_btree.TestBTree" name="test_large_dataset" file="tests\unit\test_btree.py" line="118" time="0.002"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_btree.TestBTree" name="test_print_tree" file="tests\unit\test_btree.py" line="126" time="0.001"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+B-tree structure after insertions:
+|-- ['Book 35', 'Book 62']
+  |-- ['Book 17', 'Book 25']
+    |-- ['Book 11', 'Book 14']
+      |-- ['Book 1', 'Book 10']
+      |-- ['Book 12', 'Book 13']
+      |-- ['Book 15', 'Book 16']
+    |-- ['Book 2', 'Book 22']
+      |-- ['Book 18', 'Book 19']
+      |-- ['Book 20', 'Book 21']
+      |-- ['Book 23', 'Book 24']
+    |-- ['Book 3', 'Book 32']
+      |-- ['Book 26', 'Book 27', 'Book 28', 'Book 29']
+      |-- ['Book 30', 'Book 31']
+      |-- ['Book 33', 'Book 34']
+  |-- ['Book 43', 'Book 51']
+    |-- ['Book 38', 'Book 40']
+      |-- ['Book 36', 'Book 37']
+      |-- ['Book 39', 'Book 4']
+      |-- ['Book 41', 'Book 42']
+    |-- ['Book 46', 'Book 49']
+      |-- ['Book 44', 'Book 45']
+      |-- ['Book 47', 'Book 48']
+      |-- ['Book 5', 'Book 50']
+    |-- ['Book 54', 'Book 6']
+      |-- ['Book 52', 'Book 53']
+      |-- ['Book 55', 'Book 56', 'Book 57', 'Book 58', 'Book 59']
+      |-- ['Book 60', 'Book 61']
+  |-- ['Book 72', 'Book 80', 'Book 89']
+    |-- ['Book 65', 'Book 7']
+      |-- ['Book 63', 'Book 64']
+      |-- ['Book 66', 'Book 67', 'Book 68', 'Book 69']
+      |-- ['Book 70', 'Book 71']
+    |-- ['Book 75', 'Book 78']
+      |-- ['Book 73', 'Book 74']
+      |-- ['Book 76', 'Book 77']
+      |-- ['Book 79', 'Book 8']
+    |-- ['Book 83', 'Book 86']
+      |-- ['Book 81', 'Book 82']
+      |-- ['Book 84', 'Book 85']
+      |-- ['Book 87', 'Book 88']
+    |-- ['Book 91', 'Book 94']
+      |-- ['Book 9', 'Book 90']
+      |-- ['Book 92', 'Book 93']
+      |-- ['Book 95', 'Book 96', 'Book 97', 'Book 98', 'Book 99']
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_btree.TestBTree" name="test_search" file="tests\unit\test_btree.py" line="44" time="0.000"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+Search time for 'Book C': 900.000 ns
+Search time for 'Nonexistent Book': 1.600 μs
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_btree.TestBTree" name="test_update_availability" file="tests\unit\test_btree.py" line="66" time="0.000"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase><testcase classname="tests.unit.test_btreenode.TestBTreeNode" name="test_node_creation" file="tests\unit\test_btreenode.py" line="22" time="0.001"><system-out>--------------------------------- Captured Log ---------------------------------
+
+--------------------------------- Captured Out ---------------------------------
+
+</system-out><system-err>--------------------------------- Captured Err ---------------------------------
+
+</system-err></testcase></testsuite></testsuites>
