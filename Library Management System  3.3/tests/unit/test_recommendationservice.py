@@ -50,10 +50,10 @@ class TestRecommendationService(unittest.TestCase):
             self.service.add_user("invalid_user_object")
 
     def test_diversity_fallback(self):
-        """测试无历史记录时的多样性回退"""
+
         recommendations = self.service.recommend_books("u2")
         
-        # 应返回不同作者和类型的书
+
         authors = {b.author for b in recommendations}
         genres = {b.genre.value for b in recommendations}
         self.assertTrue(len(authors) > 1)
@@ -79,7 +79,7 @@ class TestRecommendationService(unittest.TestCase):
         with self.assertRaises(ValueError):
             self.service.add_user("not_a_user_object")
         
-        # 静默处理不存在的ID
+
         self.service.remove_book(999)
         self.service.record_return("u1", 999)
 
@@ -146,7 +146,6 @@ class TestRecommendationService(unittest.TestCase):
         self.assertEqual(len(self.service.book_data), 2)
 
     def test_thread_safety(self):
-        """测试多线程环境下的数据一致性"""
         # Reset to initial state (3 points)
         self.user1.preferences = {"FICTION": 3}
         
@@ -159,7 +158,6 @@ class TestRecommendationService(unittest.TestCase):
         for t in threads: t.start()
         for t in threads: t.join()
         
-        # 验证偏好计数正确 (初始3 + 200次借阅*2点每次 = 403)
         self.assertEqual(self.user1.preferences["FICTION"], 403)
 
 if __name__ == "__main__":

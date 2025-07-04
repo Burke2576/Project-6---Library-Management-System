@@ -56,3 +56,277 @@
 2025-07-03 19:35:27,398 - INFO - Successfully imported LibraryApp
 2025-07-03 19:35:27,511 - INFO - LibraryApp Instance created successfully
 2025-07-03 19:35:27,515 - INFO - The method to display the login interface has been called
+2025-07-04 08:54:09,487 - INFO - ==================================================
+2025-07-04 08:54:09,487 - INFO - Start environment debugging information:
+2025-07-04 08:54:09,487 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 08:54:09,488 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 08:54:09,488 - INFO - RecommendationService Loading successful
+2025-07-04 08:54:09,488 - INFO - reset_books exist: True
+2025-07-04 08:54:09,489 - INFO - ==================================================
+2025-07-04 08:54:09,489 - INFO - Successfully imported LibraryApp
+2025-07-04 08:54:09,489 - CRITICAL - Application startup failed: Test error
+2025-07-04 08:54:09,492 - INFO - ==================================================
+2025-07-04 08:54:09,492 - INFO - Start environment debugging information:
+2025-07-04 08:54:09,493 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 08:54:09,493 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 08:54:09,494 - INFO - RecommendationService Loading successful
+2025-07-04 08:54:09,494 - INFO - reset_books exist: True
+2025-07-04 08:54:09,494 - INFO - ==================================================
+2025-07-04 08:54:09,494 - INFO - Successfully imported LibraryApp
+2025-07-04 08:54:09,494 - INFO - LibraryApp Instance created successfully
+2025-07-04 08:54:09,495 - INFO - The method to display the login interface has been called
+2025-07-04 08:54:14,278 - INFO - ==================================================
+2025-07-04 08:54:14,278 - INFO - Start environment debugging information:
+2025-07-04 08:54:14,278 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 08:54:14,278 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 08:54:14,279 - INFO - RecommendationService Loading successful
+2025-07-04 08:54:14,279 - INFO - reset_books exist: True
+2025-07-04 08:54:14,279 - INFO - ==================================================
+2025-07-04 08:54:14,279 - INFO - Successfully imported LibraryApp
+2025-07-04 08:54:14,279 - CRITICAL - Application startup failed: Test error
+2025-07-04 08:54:14,281 - INFO - ==================================================
+2025-07-04 08:54:14,281 - INFO - Start environment debugging information:
+2025-07-04 08:54:14,282 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 08:54:14,282 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 08:54:14,282 - INFO - RecommendationService Loading successful
+2025-07-04 08:54:14,283 - INFO - reset_books exist: True
+2025-07-04 08:54:14,283 - INFO - ==================================================
+2025-07-04 08:54:14,283 - INFO - Successfully imported LibraryApp
+2025-07-04 08:54:14,283 - INFO - LibraryApp Instance created successfully
+2025-07-04 08:54:14,283 - INFO - The method to display the login interface has been called
+2025-07-04 08:54:17,801 - INFO - ==================================================
+2025-07-04 08:54:17,801 - INFO - Start environment debugging information:
+2025-07-04 08:54:17,801 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 08:54:17,801 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 08:54:17,802 - INFO - RecommendationService Loading successful
+2025-07-04 08:54:17,802 - INFO - reset_books exist: True
+2025-07-04 08:54:17,802 - INFO - ==================================================
+2025-07-04 08:54:17,802 - INFO - Successfully imported LibraryApp
+2025-07-04 08:54:17,802 - CRITICAL - Application startup failed: Test error
+2025-07-04 08:54:17,806 - INFO - ==================================================
+2025-07-04 08:54:17,806 - INFO - Start environment debugging information:
+2025-07-04 08:54:17,806 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 08:54:17,806 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 08:54:17,807 - INFO - RecommendationService Loading successful
+2025-07-04 08:54:17,807 - INFO - reset_books exist: True
+2025-07-04 08:54:17,807 - INFO - ==================================================
+2025-07-04 08:54:17,807 - INFO - Successfully imported LibraryApp
+2025-07-04 08:54:17,807 - INFO - LibraryApp Instance created successfully
+2025-07-04 08:54:17,808 - INFO - The method to display the login interface has been called
+2025-07-04 08:54:22,746 - INFO - ==================================================
+2025-07-04 08:54:22,746 - INFO - Start environment debugging information:
+2025-07-04 08:54:22,746 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 08:54:22,746 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 08:54:22,747 - INFO - RecommendationService Loading successful
+2025-07-04 08:54:22,747 - INFO - reset_books exist: True
+2025-07-04 08:54:22,747 - INFO - ==================================================
+2025-07-04 08:54:22,747 - INFO - Successfully imported LibraryApp
+2025-07-04 08:54:22,747 - CRITICAL - Application startup failed: Test error
+2025-07-04 08:54:22,750 - INFO - ==================================================
+2025-07-04 08:54:22,750 - INFO - Start environment debugging information:
+2025-07-04 08:54:22,751 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 08:54:22,751 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 08:54:22,752 - INFO - RecommendationService Loading successful
+2025-07-04 08:54:22,752 - INFO - reset_books exist: True
+2025-07-04 08:54:22,752 - INFO - ==================================================
+2025-07-04 08:54:22,752 - INFO - Successfully imported LibraryApp
+2025-07-04 08:54:22,752 - INFO - LibraryApp Instance created successfully
+2025-07-04 08:54:22,752 - INFO - The method to display the login interface has been called
+2025-07-04 09:04:03,229 - INFO - ==================================================
+2025-07-04 09:04:03,229 - INFO - Start environment debugging information:
+2025-07-04 09:04:03,229 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:04:03,229 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:04:03,230 - INFO - RecommendationService Loading successful
+2025-07-04 09:04:03,230 - INFO - reset_books exist: True
+2025-07-04 09:04:03,230 - INFO - ==================================================
+2025-07-04 09:04:03,230 - INFO - Successfully imported LibraryApp
+2025-07-04 09:04:03,230 - CRITICAL - Application startup failed: 模拟导入错误
+2025-07-04 09:04:03,233 - INFO - ==================================================
+2025-07-04 09:04:03,233 - INFO - Start environment debugging information:
+2025-07-04 09:04:03,233 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:04:03,233 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:04:03,234 - INFO - RecommendationService Loading successful
+2025-07-04 09:04:03,234 - INFO - reset_books exist: True
+2025-07-04 09:04:03,234 - INFO - ==================================================
+2025-07-04 09:04:03,234 - INFO - Successfully imported LibraryApp
+2025-07-04 09:04:03,235 - INFO - LibraryApp Instance created successfully
+2025-07-04 09:04:03,235 - INFO - The method to display the login interface has been called
+2025-07-04 09:06:30,577 - INFO - ==================================================
+2025-07-04 09:06:30,578 - INFO - Start environment debugging information:
+2025-07-04 09:06:30,578 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:06:30,578 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:06:30,578 - ERROR - Module loading failed: reload() argument must be a module
+2025-07-04 09:06:30,578 - INFO - ==================================================
+2025-07-04 09:08:24,912 - INFO - ==================================================
+2025-07-04 09:08:24,913 - INFO - Start environment debugging information:
+2025-07-04 09:08:24,913 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:08:24,913 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:08:24,914 - INFO - RecommendationService Loading successful
+2025-07-04 09:08:24,914 - INFO - reset_books exist: True
+2025-07-04 09:08:24,914 - INFO - ==================================================
+2025-07-04 09:08:24,914 - INFO - Successfully imported LibraryApp
+2025-07-04 09:08:24,914 - CRITICAL - Application startup failed: 模拟导入错误
+2025-07-04 09:08:24,917 - INFO - ==================================================
+2025-07-04 09:08:24,917 - INFO - Start environment debugging information:
+2025-07-04 09:08:24,917 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:08:24,917 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:08:24,918 - INFO - RecommendationService Loading successful
+2025-07-04 09:08:24,918 - INFO - reset_books exist: True
+2025-07-04 09:08:24,918 - INFO - ==================================================
+2025-07-04 09:08:24,918 - INFO - Successfully imported LibraryApp
+2025-07-04 09:08:24,918 - INFO - LibraryApp Instance created successfully
+2025-07-04 09:08:24,919 - INFO - The method to display the login interface has been called
+2025-07-04 09:10:25,521 - INFO - ==================================================
+2025-07-04 09:10:25,521 - INFO - Start environment debugging information:
+2025-07-04 09:10:25,521 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:10:25,521 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:10:25,521 - ERROR - Module loading failed: reload() argument must be a module
+2025-07-04 09:10:25,521 - INFO - ==================================================
+2025-07-04 09:10:25,521 - INFO - Successfully imported LibraryApp
+2025-07-04 09:10:25,521 - CRITICAL - Application startup failed: 模拟导入错误
+2025-07-04 09:10:25,524 - INFO - ==================================================
+2025-07-04 09:10:25,524 - INFO - Start environment debugging information:
+2025-07-04 09:10:25,524 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:10:25,524 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:10:25,524 - ERROR - Module loading failed: reload() argument must be a module
+2025-07-04 09:10:25,524 - INFO - ==================================================
+2025-07-04 09:10:25,524 - INFO - Successfully imported LibraryApp
+2025-07-04 09:10:25,525 - INFO - LibraryApp Instance created successfully
+2025-07-04 09:10:25,525 - INFO - The method to display the login interface has been called
+2025-07-04 09:12:50,519 - INFO - ==================================================
+2025-07-04 09:12:50,519 - INFO - Start environment debugging information:
+2025-07-04 09:12:50,519 - INFO - current working directory: /test/path
+2025-07-04 09:12:50,519 - INFO - Python Path: <MagicMock name='path' id='1651212472336'>
+2025-07-04 09:12:50,519 - ERROR - Module loading failed: reload() argument must be a module
+2025-07-04 09:12:50,519 - INFO - ==================================================
+2025-07-04 09:12:52,254 - INFO - ==================================================
+2025-07-04 09:12:52,255 - INFO - Start environment debugging information:
+2025-07-04 09:12:52,255 - INFO - current working directory: /test/path
+2025-07-04 09:12:52,255 - INFO - Python Path: <MagicMock name='path' id='2746457378832'>
+2025-07-04 09:12:52,255 - ERROR - Module loading failed: reload() argument must be a module
+2025-07-04 09:12:52,255 - INFO - ==================================================
+2025-07-04 09:12:53,391 - INFO - ==================================================
+2025-07-04 09:12:53,391 - INFO - Start environment debugging information:
+2025-07-04 09:12:53,391 - INFO - current working directory: /test/path
+2025-07-04 09:12:53,391 - INFO - Python Path: <MagicMock name='path' id='2153281212432'>
+2025-07-04 09:12:53,392 - ERROR - Module loading failed: reload() argument must be a module
+2025-07-04 09:12:53,392 - INFO - ==================================================
+2025-07-04 09:15:01,417 - INFO - ==================================================
+2025-07-04 09:15:01,417 - INFO - Start environment debugging information:
+2025-07-04 09:15:01,417 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:15:01,417 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:15:01,418 - INFO - RecommendationService Loading successful
+2025-07-04 09:15:01,418 - INFO - reset_books exist: True
+2025-07-04 09:15:01,418 - INFO - ==================================================
+2025-07-04 09:15:01,418 - INFO - Successfully imported LibraryApp
+2025-07-04 09:15:01,418 - CRITICAL - Application startup failed: 模拟导入错误
+2025-07-04 09:15:01,422 - INFO - ==================================================
+2025-07-04 09:15:01,422 - INFO - Start environment debugging information:
+2025-07-04 09:15:01,422 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:15:01,422 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:15:01,423 - INFO - RecommendationService Loading successful
+2025-07-04 09:15:01,423 - INFO - reset_books exist: True
+2025-07-04 09:15:01,423 - INFO - ==================================================
+2025-07-04 09:15:01,423 - INFO - Successfully imported LibraryApp
+2025-07-04 09:15:01,423 - INFO - LibraryApp Instance created successfully
+2025-07-04 09:15:01,423 - INFO - The method to display the login interface has been called
+2025-07-04 09:16:20,933 - INFO - ==================================================
+2025-07-04 09:16:20,933 - INFO - Start environment debugging information:
+2025-07-04 09:16:20,933 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:16:20,933 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:16:20,933 - INFO - RecommendationService Loading successful
+2025-07-04 09:16:20,933 - INFO - reset_books exist: True
+2025-07-04 09:16:20,934 - INFO - ==================================================
+2025-07-04 09:16:20,934 - INFO - Successfully imported LibraryApp
+2025-07-04 09:16:20,934 - INFO - LibraryApp Instance created successfully
+2025-07-04 09:16:20,934 - INFO - The method to display the login interface has been called
+2025-07-04 09:17:52,470 - INFO - ==================================================
+2025-07-04 09:17:52,470 - INFO - Start environment debugging information:
+2025-07-04 09:17:52,470 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:17:52,470 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:17:52,471 - INFO - RecommendationService Loading successful
+2025-07-04 09:17:52,471 - INFO - reset_books exist: True
+2025-07-04 09:17:52,471 - INFO - ==================================================
+2025-07-04 09:17:52,471 - INFO - Successfully imported LibraryApp
+2025-07-04 09:17:52,471 - CRITICAL - Application startup failed: 模拟导入错误
+2025-07-04 09:17:52,475 - INFO - ==================================================
+2025-07-04 09:17:52,475 - INFO - Start environment debugging information:
+2025-07-04 09:17:52,476 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:17:52,476 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:17:52,476 - INFO - RecommendationService Loading successful
+2025-07-04 09:17:52,476 - INFO - reset_books exist: True
+2025-07-04 09:17:52,476 - INFO - ==================================================
+2025-07-04 09:17:52,476 - INFO - Successfully imported LibraryApp
+2025-07-04 09:17:52,476 - INFO - LibraryApp Instance created successfully
+2025-07-04 09:17:52,476 - INFO - The method to display the login interface has been called
+2025-07-04 09:19:10,825 - INFO - ==================================================
+2025-07-04 09:19:10,825 - INFO - Start environment debugging information:
+2025-07-04 09:19:10,825 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:19:10,825 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:19:10,826 - ERROR - Module loading failed: module services.RecommendationService not in sys.modules
+2025-07-04 09:19:10,826 - INFO - ==================================================
+2025-07-04 09:19:10,826 - INFO - Successfully imported LibraryApp
+2025-07-04 09:19:10,826 - CRITICAL - Application startup failed: 模拟导入错误
+2025-07-04 09:19:10,831 - INFO - ==================================================
+2025-07-04 09:19:10,831 - INFO - Start environment debugging information:
+2025-07-04 09:19:10,831 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:19:10,831 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:19:10,831 - ERROR - Module loading failed: module services.RecommendationService not in sys.modules
+2025-07-04 09:19:10,831 - INFO - ==================================================
+2025-07-04 09:19:10,831 - INFO - Successfully imported LibraryApp
+2025-07-04 09:19:10,831 - INFO - LibraryApp Instance created successfully
+2025-07-04 09:19:10,832 - INFO - The method to display the login interface has been called
+2025-07-04 09:20:05,945 - INFO - ==================================================
+2025-07-04 09:20:05,945 - INFO - Start environment debugging information:
+2025-07-04 09:20:05,945 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:20:05,945 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:20:05,945 - ERROR - Module loading failed: module services.RecommendationService not in sys.modules
+2025-07-04 09:20:05,945 - INFO - ==================================================
+2025-07-04 09:20:05,945 - INFO - Successfully imported LibraryApp
+2025-07-04 09:20:05,945 - CRITICAL - Application startup failed: 模拟导入错误
+2025-07-04 09:20:05,949 - INFO - ==================================================
+2025-07-04 09:20:05,949 - INFO - Start environment debugging information:
+2025-07-04 09:20:05,949 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:20:05,949 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:20:05,949 - ERROR - Module loading failed: module services.RecommendationService not in sys.modules
+2025-07-04 09:20:05,949 - INFO - ==================================================
+2025-07-04 09:20:05,949 - INFO - Successfully imported LibraryApp
+2025-07-04 09:20:05,949 - INFO - LibraryApp Instance created successfully
+2025-07-04 09:20:05,949 - INFO - The method to display the login interface has been called
+2025-07-04 09:20:53,754 - INFO - ==================================================
+2025-07-04 09:20:53,754 - INFO - Start environment debugging information:
+2025-07-04 09:20:53,754 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:20:53,754 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:20:53,754 - ERROR - Module loading failed: module services.RecommendationService not in sys.modules
+2025-07-04 09:20:53,754 - INFO - ==================================================
+2025-07-04 09:20:53,755 - INFO - Successfully imported LibraryApp
+2025-07-04 09:20:53,755 - CRITICAL - Application startup failed: 模拟导入错误
+2025-07-04 09:20:53,758 - INFO - ==================================================
+2025-07-04 09:20:53,759 - INFO - Start environment debugging information:
+2025-07-04 09:20:53,759 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:20:53,759 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:20:53,759 - ERROR - Module loading failed: module services.RecommendationService not in sys.modules
+2025-07-04 09:20:53,759 - INFO - ==================================================
+2025-07-04 09:20:53,759 - INFO - Successfully imported LibraryApp
+2025-07-04 09:20:53,759 - INFO - LibraryApp Instance created successfully
+2025-07-04 09:20:53,759 - INFO - The method to display the login interface has been called
+2025-07-04 09:38:11,760 - INFO - ==================================================
+2025-07-04 09:38:11,760 - INFO - Start environment debugging information:
+2025-07-04 09:38:11,760 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 09:38:11,760 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 09:38:11,762 - INFO - RecommendationService Loading successful
+2025-07-04 09:38:11,762 - INFO - reset_books exist: True
+2025-07-04 09:38:11,762 - INFO - ==================================================
+2025-07-04 09:38:11,763 - INFO - Successfully imported LibraryApp
+2025-07-04 09:38:11,763 - INFO - LibraryApp Instance created successfully
+2025-07-04 09:38:11,763 - INFO - The method to display the login interface has been called
+2025-07-04 10:28:26,643 - INFO - ==================================================
+2025-07-04 10:28:26,643 - INFO - Start environment debugging information:
+2025-07-04 10:28:26,643 - INFO - current working directory: d:\OneDrive\桌面\Library Management System  3.3
+2025-07-04 10:28:26,643 - INFO - Python Path: ['d:\\OneDrive\\桌面', 'd:\\OneDrive\\桌面\\Library Management System  3.3', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\tests', '', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\hry2576\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages', 'd:\\OneDrive\\桌面\\Library Management System  3.3\\src']
+2025-07-04 10:28:26,643 - INFO - RecommendationService Loading successful
+2025-07-04 10:28:26,644 - INFO - reset_books exist: True
+2025-07-04 10:28:26,644 - INFO - ==================================================
+2025-07-04 10:28:26,644 - INFO - Successfully imported LibraryApp
+2025-07-04 10:28:26,644 - INFO - LibraryApp Instance created successfully
+2025-07-04 10:28:26,644 - INFO - The method to display the login interface has been called

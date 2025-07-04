@@ -63,8 +63,8 @@ class TestUser(unittest.TestCase):
         self.assertEqual(empty_user.user_id, "")
         self.assertEqual(empty_user.name, "New User")
 
-        special_user = User(user_id="003", name="用户@123")
-        self.assertEqual(special_user.name, "用户@123")
+        special_user = User(user_id="003", name="user@123")
+        self.assertEqual(special_user.name, "user@123")
 
         for _ in range(5):
             self.default_user.add_borrowed_book("repeat")
